@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Conceptos de Tarea</h1> <br>
+</title>
+    <p> <br>
+    <p> <br>
+<h1>La estructura lógica de un disco duro está formada por:</h1> <br>
+<li>El sector de arranque</li>
+<li>Espacio particionado</li>
+<li>Espacio sin particionar</li>
+    <p></p>
+<li>A.	Sector de arranque o MBR (Master Boot Record): Primer sector de todo disco duro (cabeza 0, cilindro 0, sector. En él se almacena la tabla de particiones y un pequeño programa de  Inicialización. Este programa es el encargado de leer la tabla de particiones y ceder el control al sector de arranque de la partición activa. Si no existiese partición activa, mostraría un mensaje de error.</li> <br>
+<li>B.	El espacio particionado es el espacio del disco que ha sido asignado a alguna partición.</li> <br>
+<li>C.	El espacio no particionado, es espacio no accesible del disco ya que todavía no ha sido asignado a ninguna partición.(Díaz, 2010)</li> <br>
+<p></p>
+<p></p>
+<h1>TIPOS DE DISCO DURO </h1> <br>
+<h2>Localización</h2><br>
+<li>Internos: Los discos duros internos se encuentran alojados dentro de la estructura de tu ordenador y conectados a la placa base para acceder a la información rápidamente.</li> <br>
+<li>Los discos duros externos se conectan a tu PC a través de un conector USB o SATA externo (eSATA).</li>
+<p></p>
+<h2>Tecnología</h2> <br>
+<li>Los discos duros magnéticos los datos se almacenan en unos discos (de ahí su nombre) de aluminio o cristal que copian la información físicamente a través de campos magnéticos. Para ello, hay un cabezal que graba y lee los datos. En este tipo de discos duros, mientras el cabezal se mueve, los discos giran. La velocidad con la que giran los discos define el tiempo que tardará el cabezal en situarse en el lugar correcto para recuperar o grabar la información.</li> <br>
+<li>Los discos de estado sólido o SSD (Solid State Disks o Drives) consisten en una placa con transistores semiconductores que almacenan la información. Utilizan memoria flash, una memoria no volátil, para guardar datos. Al ser no volátiles tampoco necesitan recibir corriente eléctrica constantemente para mantener almacenada la información.</li> <br>
+<p></p>
+<h2>Tipos de Interfaz</h2> <br>
+<li>Parallel Advanced Technology Attachment (PATA): Estos fueron los primeros tipos de unidades de disco duro y utilizaron el estándar de interfaz ATA paralelo para conectarse a los ordenadores.</li><br>
+<li>Serial ATA (SATA): Interfaz de transferencia de datos entre la placa base y dispositivos de almacenamiento (disco duro, unidades CD/DVD) Actualmente es una interfaz estandarizada en las placas base de PC.</li><br>
+<li>IDE (Dispositivo electrónico integrado, o también ATA o PATA) La conexión IDE tiene 40 conectores y acepta hasta dos dispositivos conectados a la misma fuente. Sin embargo es una tecnología desfasada que se ha quedado atrás tanto en velocidad como compatibilidad.</li> <br>
+<li>eSATA o eSATAp utiliza el propio cable para recibir la alimentación eléctrica, por lo que se utiliza para conectar discos duros externos a la placa base del ordenador. Es tan fácil usarlos como conectar el disco duro al equipo informático (como si de un USB se tratara) siempre que éste tenga un puerto eSATA.</li> <br>
+<li>Interfaz de sistema de computadora pequeña (SCSI): INTERFAZ SCSI Actualmente SCSI es popular en estaciones de trabajo de alto rendimiento y servidores. Los ordenadores de sobremesa utilizan habitualmente ATA/IDE y SATA para los discos duros. Para dispositivos externos se usa conexiones USB, e-SATA y FireWire</li>
+<p></p>
+<p></p>
+<h1>Velocidades de Transferencia</h1>
+<li>PATA: La velocidad de transferencia de datos puede llegar a 133 MB/s y se pueden conectar un máximo de 2 dispositivos a un canal de unidad.</li>
+<li>SATA 1.0 ofrece velocidades de transferencia de hasta 150 MB/segundo pero hoy en día ya no se comercializa.</li><br>
+<li>SATA 2.0 permite velocidades de hasta 300 MB/segundo y seguramente sea el más popular actualmente</li><br>
+<li>SATA 3.0 alcanza velocidades de transferencia de hasta 300 MB/segundo y permite conexión en caliente (conectarse o desconectarse del ordenador sin tener que apagarlo).</li> <br>
+<li>SSD: Lecturas/escrituras secuenciales hasta 560/510 MB/s en todos los tipos de archivo</li> <br>
+<li>eSATA o eSATAp: Su velocidad de transferencia va desde los 300 MB hasta los 750 MB por segundo.</li> <br>
+<p></p>
+<p></p>
+<h1>Tipos de computadoras </h1>
+<li>Las supercomputadoras son un tipo de equipamiento informático diseñado con el propósito de procesar rápidamente enormes cantidades de información. Con el paso de los años la potencia de los procesadores que equipan a estas computadoras ha ido incrementándose hasta valores increíbles, y existe una feroz competencia por sus desarrolladores y fabricantes para que sus supercomputadora sea la más potente disponible en una determinada época.</li> <br>
+<li>Mainframes: Se destinan a manipular cantidades inmensas de información de entrada, salida y almacenamiento. Los mainframes generalmente trabajan con terminales esparcidas en distintas áreas físicas y donde todo el procesamiento es realizado en este mainframe. Los mainframes actuales pueden costar millones de dólares y suelen ocupar salas enteras equipadas con infraestructura especial</li> <br>
+<li>Las Minicomputadoras: Las minicomputadoras son un tipo de dispositivo que se encuentra en un nicho entre los mainframes y las microcomputadoras. Las minicomputadoras son un tercer tipo de computadora capaz de manipular mucha más datos de entrada y salida que los microcomputadoras.</li> <br>
+<li>Las estaciones de trabajo: A pesar de que en su momento las estaciones de trabajo o Workstation, como también se las conoce, eran equipos que se utilizaban para tareas que requerían de altos niveles de potencia y estabilidad de proceso, lo cierto es que con el paso del tiempo.</li> <br>
+<li>Las computadoras personales: Las computadoras personales, también llamadas microcomputadoras o micros es un tipo de computadora pequeña, pero que en la actualidad ofrece gran capacidad de procesamiento y alta performance. Estas son la computadoras de escritorio y la computadora personal</li>
+<p></p>
+<p></p>
+<p></p>
+<h1>Partes de un Procesador </h1> <br>
+<p></p>
+<h2>Partes Lógicas</h2>
+<li>Unidad de Control: Unidad encargada de Activar o Desactivar los diferentes componentes del procesador, igualmente se encarga de Interpretar y ejecutar las diferentes instrucciones almacenadas en la memoria principal.</li> <br>
+<li>Unidad Aritmética y Lógica: Se encarga de realizar las operaciones de transformación de datos, especialmente las operaciones matemáticas, el cual es denominado FPU (Floating Point Unit, Unidad de coma Flotante).</li> <br>
+<li>Registros: Se denominan a las áreas de almacenamiento temporal usadas durante la ejecución de las instrucciones.</li>
+<p></p>
+<h2>Partes Físicas</h2>
+<li>Encapsulado: Es lo que rodea a la oblea de silicio, dándole consistencia y protección para impedir su deterioro.</li> <br>
+<li>Zocalo: Lugar donde se inserta el procesador, permitiendo la conexión con  el resto del equipo.</li> <br>
+<li>Chipset: Conjunto de Chips encargados del control de las determinadas funciones del equipo. </li> <br>
+<li>Memoria Cache: Parte donde se almacenan los datos con más frecuente.</li>
+<p></p>
+<h2>Funcionamiento</h2> <br>
+<h3>La ejecución de las instrucciones de efectúa en fases</h3> <br>
+<li>Prefetch: Prelectura de la instrucción desde la memoria principal.</li> <br>
+<li>Fetch: Envío de la instrucción al decodificador</li> <br>
+<p></p>
+<p></p>
+<p></p>
+<h2>Bibliografía</h2>
+<li>Díaz, P. (2010). Wordpress. Obtenido de https://1asir.files.wordpress.com/2010/10/estructura-del-disco.pdf</li> <br>
+<li>DISCOS DUROS. (03 de Junio de 2014). Obtenido de https://discosduros.org/tipos-de-discos-duros/</li> <br>
+<li>TECNOLOGIA&INFORMATICA. (2019). Obtenido de https://tecnologia-informatica.com/tipos-de-computadoras/</li> <br>
+<p></p>
+</body>
+</html>
